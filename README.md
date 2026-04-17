@@ -8,19 +8,18 @@ These are the minimum requirements to use the Shoplive SDK for iOS. If you do no
 
 - Xcode 14 and above
 - iOS 13 and above
-- iOS Deployment Target 13.0 and above
+- iOS Deployment Target 15.0 and above
 - Swift 5.0 and above
 
 ## Before getting started
 
 To use the Shoplive SDK for iOS, please request for an admin account and password to a Shoplive representative.
 
-- [Make a request]
-- [Admin Guide - Creating Admin Account]
+- [https://en.shoplive.guide/docs/admin-account]
 
 Add campaigns in Shoplive admin and write down Campaign Key.
 
-- [Admin Guide - Creating Campaign]
+- [https://en.shoplive.guide/docs/create-campaign]
 
 ## Getting Started
 
