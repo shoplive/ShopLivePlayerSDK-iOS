@@ -31,12 +31,12 @@ Add the following dependency to your `Package.swift`:
 
 ```swift
 dependencies: [
-    .package(url: "https://github.com/shoplive/ShopLivePlayerSDK-iOS", exact: "2.0.20")
+    .package(url: "https://github.com/shoplive/ShopLivePlayerSDK-iOS", exact: "2.0.21.2")
 ]
 ```
 
 Or in Xcode: **File → Add Packages…** and enter
-`https://github.com/shoplive/ShopLivePlayerSDK-iOS` with version `2.0.20`.
+`https://github.com/shoplive/ShopLivePlayerSDK-iOS` with version `2.0.21.2`.
 
 Add the libraries you need to your target:
 
